@@ -1,6 +1,7 @@
 TweetScraper
 
 TweetScraper is a tool to download tweets from a twitter user.
+
 Usage:
 
 Run program with auth token keys set and specify options. Options currently are:
